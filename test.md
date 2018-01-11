@@ -1,6 +1,6 @@
 # Test
 
-![](test.gif)
+![](./test.png)
 
 `a
 s
