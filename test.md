@@ -1,6 +1,6 @@
 # Test
 
-![](./test.png)
+![]('./test.png')
 
 `a
 s
